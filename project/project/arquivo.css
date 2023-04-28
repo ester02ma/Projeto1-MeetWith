@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #FDE2BA;
+}
+
+
+.topic {
+
+    width: 90%;
+    height: 100px;
+    background-color: #FDE2BA;
+    word-spacing: 10px;
+    padding-right: 15px;
+    position: absolute;
+
+}
+
+#data  {
+    font-size: 12px;
+    margin-top: 30px;
+    font-style: Atomic Age;
+    position: relative;
+}
+
+#gear {
+    transform: translate(550px, -20px);
+}
+
+#title1 {
+    font-size: 60px;
+    margin-top: 80px;
+    color: rgba(32, 66, 140, 0.72);
+}
+
+#title2 {
+    font-size: 60px;
+    margin-top: 60px;
+    color: rgba(32, 66, 140, 0.72);
+}
+
+#search_bar {
+    margin-top: 40px;
+    width: 650px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:#F6F2F2;
+}
+
+#search {
+    width: 580px;
+    background-color:#F6F2F2;
+    outline: none;
+    border: none;
+}
+
+#microphone {
+    margin-top: 2px;
+    background-color:#F6F2F2;
+    width: 26px;
+    height: 23px;
+}
+
+.icons > div{
+    margin-top: 80px;
+    display: inline-block;
+    width: 50px;
+    height: 55px;
+    background-position: center center;
+    background-size: 75px
+}
+
+#facebook {
+    background-image: url(images/facebook\ 1.png);
+}
+
+#youtube {
+    background-image: url(images/youtube\ 1.png);
+}
+
+#amazon {
+    background-image: url(images/amazon.png);
+}
+
+#bbc {
+    background-image: url(images/bbc.png);
+}
+
+#netflix {
+    background-image: url(images/netflix\ 1.png);
+}
+
+#title3 {
+    margin-top: 65px;
+    color: rgba(32, 66, 140, 0.72);
+
+}
+
+.options {
+    width: 200px;
+    height: 200px;
+    transform: translate(-470px, -147px);
+}
+
+.options > button {
+    border: none;
+    margin-top: 20px;
+    width: 130px;
+    height: 48px;
+    background-color: #f5ddba;
+}
+
+.img {
+    width: 200px;
+    height: 10px;
+    transform: translate(470px, -120px);
+}
+
+#be {
+    width: 150px;
+    height: 300px;
+}
+
+.main {
+    text-align: justify;
+    width: 600px;
+    height: 100px;
+    margin-top: 45px;
+}
+
+.main > a {
+    text-decoration:none;
+    color:inherit;
+    font-size: 12px;
+    margin-top: 5px
+}
+
+#font {
+    font-size: 16px;
+    color: rgba(119, 131, 156, 0.72);
+}
+
+#search_bar2 {
+    margin-top: 60px;
+    width: 600px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:#F6F2F2;
+}
