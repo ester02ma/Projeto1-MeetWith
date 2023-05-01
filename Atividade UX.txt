@@ -9,3 +9,15 @@ Arquitetura da informação está ligada a como as informações, no caso os con
 
 Visual Design se trata da escolha de elementos como formas, imagnes, texturas, composição, cores, tipografia, etc. Na interface teve a escolha específica do contraste de cores queao mesmo tempo "converssassem" mas não tirasse o foco das partes mais importantes nem fosse visualmente desconfortável (cores pastéis e "pacificas")
 , isso também se apresenta na escolha de imagens e nas fontes de letras. Em síntese, o objetivo foi escolher um conjunto de elementos que converssassem entre si e coubesem dentro dos conceitos solicitados.
+
+Momento 02:
+
+Tolerância ao erro: o conceito está ligado a restringir as "oportunidades" que o usuário tem de errar ao usar as ferramentas e elementos mostradas na interface. Para fazer isso é preciso usar maneiras que cheguem a esse objetivo como intuitividade de ícones e links, o que infelizmente na parte que se refere a links, a interface do nosso projeto  não cumpriu bem esse papel.
+
+Engajamento: Como é uma interface para o buscador, o nosso é visualmente intuitivo, pois ao visualizar a composição dos elementos tanto da pagina inicial quanto da página de resposta é facilmente identificável quais são as ferramentas que a interface possui e como usá-las, dessa forma isso traz uma maior praticidade ao usuário e consequentemente uma melhor experiência.
+
+Eficiência: As funcionalidades se apresentam de forma rápida.
+
+Fácil de aprender: A interface apresenta um nível simples, pois o usuário não precisa adquirir um tipo de conhecimento específico para poder utilizá-la.
+
+Eficácia: Conforme for feita a pesquisa o usuário recebe o que buscou.
